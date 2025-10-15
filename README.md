@@ -1,6 +1,6 @@
 ## Eaee! Eu sou o Pedro Urquisa 
 
-- 🔭 Hoje eu estou cursando o segundo semestre de DSI no SENAI
+- 🔭 Hoje eu estou cursando o quarto semestre de ADS no SENAI
 - 🌱 Estudando diversas matérias 
 - 😄 Pronouns: ele/dele
 - 💚 Palmeirense
