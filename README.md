@@ -1,4 +1,4 @@
-## Eaee! Eu sou o Pedro Urquisa 
+## Eaee! Eu sou o Pedro Urquisa 👨🏽‍💻
 
 - 🔭 Hoje eu estou cursando o quarto semestre de ADS no SENAI
 - 🌱 Estudando diversas matérias 
