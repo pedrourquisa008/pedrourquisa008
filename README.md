@@ -3,8 +3,8 @@
 Atualmente estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) no SENAI. Estou sempre buscando aprender e evoluir como desenvolvedor, explorando novas áreas da programação e aprimorando minhas habilidades. Meu objetivo é desenvolver sites e criar soluções que ajudem a resolver problemas de forma prática e eficiente.
   <div>
     <a href="https://github.com/pedrourquisa008">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrourquisa008&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrourquisa008&layout=compact&langs_count=16&theme=dracula"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrourquisa008&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrourquisa008&layout=compact&langs_count=16&theme=dark"/>
   </div>
 
 <div style="display: inline_block"><br>
