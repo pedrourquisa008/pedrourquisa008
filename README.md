@@ -23,7 +23,7 @@ Atualmente estou cursando o 4º semestre de Análise e Desenvolvimento de Sistem
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrourquisa008/pedrourquisa008/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dracula)" srcset="https://raw.githubusercontent.com/pedrourquisa008/pedrourquisa008/output/github-contribution-grid-snake-dracula.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrourquisa008/pedrourquisa008/output/github-contribution-grid-snake.svg">
 </picture>
 
