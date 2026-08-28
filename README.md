@@ -1,6 +1,6 @@
 ## Eaee! Eu sou o Pedro Urquisa 👨🏽‍💻
 
-Atualmente estou formado de Análise e Desenvolvimento de Sistemas (ADS) no SENAI. Estou sempre buscando aprender e evoluir como desenvolvedor, explorando novas áreas da programação e aprimorando minhas habilidades. Meu objetivo é desenvolver sites e criar soluções que ajudem a resolver problemas de forma prática e eficiente.
+Atualmente estou formado de Análise e Desenvolvimento de Sistemas (ADS) no SENAI e cursando o segundo semestre da graduação em análise e desenvolvimento de sistemas. Estou sempre buscando aprender e evoluir como desenvolvedor, explorando novas áreas da programação e aprimorando minhas habilidades. Meu objetivo é desenvolver sites e criar soluções que ajudem a resolver problemas de forma prática e eficiente.
   <div>
     <a href="https://github.com/pedrourquisa008">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrourquisa008&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
